@@ -4,6 +4,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqNHdrSXJyZUhFZEM@37.218.241.130:443#%5B%F0%9
 
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@145.239.1.100:8090#%5B%F0%9F%87%AB%F0%9F%87%B7%5D%20RighTel%20%F0%9F%9F%A3
 
+vless://370e26ea-1906-4044-c095-8e3e28d420fd@95.179.150.52:2087?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=&sni=panel.behdadbakhtiyari.site#%5BCF%5D+RighTel+%F0%9F%9F%A3+Irancell+%F0%9F%9F%A1+%2F+200GB
+
 
 
 
