@@ -7,3 +7,5 @@ vless://1f869f07-d084-407d-9e81-b2dc886af269@sajad10110.fun:20119/?type=grpc&enc
 vmess://eyJhZGQiOiJtZXRyaXguZ2hleWNoaS5tbCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaHAuc2FmZW5lc3Nlci5nYSIsImlkIjoiNmI2NmFlMmYtYTZjNy00NWM0LTk3MTItZGUyZjc0ZjE4MWMzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3RlbC9zYW5zb3JjaGlfYmV6YW5fZ2hleWNoaV9ib3QiLCJwb3J0IjoiMjA5NSIsInBzIjoiMiB2bWVzcyBub1RMUyAxMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
 vless://0e64e50c-77e2-4d70-e99c-1865569f88c3@ww2.cloud-x.online:2053/?type=ws&encryption=none&host=a1.cloud-x.online&path=%2F&security=tls&sni=a1.cloud-x.online#Nima%2B%26%2BIrancell%2B%26%2BZitel%2B%26%2BRightel
+
+vless://6b66ae2f-a6c7-45c4-9712-de2f74f181c3@mtnc.ircf.space:443?path=%2Ftel%2Fsansorchi_bezan_gheychi_bot&security=tls&encryption=none&host=hp.safenesser.ga&type=ws&sni=hp.safenesser.ga#mtn
