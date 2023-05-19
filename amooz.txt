@@ -1,3 +1,15 @@
+vmess://eyJhZGQiOiIxODUuMTQzLjIzNC4xMjIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZvcm0udGFqc3ViLmNvbSIsImlkIjoiOTNhM2ZkMjMtOTZkZi00OWRmLTgwZTktODU0ZmUxNTRiYmJmIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDg2IiwicHMiOiJbIPCfh67wn4e3IF0gTVROIPCfn6EgTUNJIPCflLUgKHR1bm5lbCkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiIxNzguMjM5LjE3MS4xMDMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNjEyODBmODAtY2QyNS00YzdiLThlNWEtYjE1NjA2MTcwNDdhIiwibmV0Ijoid3MiLCJwYXRoIjoiL1Q1dDVwMURQZVNJb29VWmZFbWtGQVlmVHhaIiwicG9ydCI6IjgwIiwicHMiOiJb8J+HrPCfh6ddIE1UTiDwn5+hIChXUykiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+trojan://EaklYS69k8@138.201.207.4:25968/?type=tcp&security=tls&sni=big.viiipking.info#%5B%20%F0%9F%87%A9%F0%9F%87%AA%20%5D%20MTN%20%F0%9F%9F%A1
+
+trojan://b31eb45e-7f95-465f-8229-716058f6dc49@43.204.138.182:443/?type=tcp&security=tls&sni=tlsdata.cnamazon.sbs#%5B%20%F0%9F%87%AE%F0%9F%87%B3%20%5D%20MTN%20%F0%9F%9F%A1
+
+trojan://23fd9f2e-7ff8-4d98-8099-8acce9499433@147.78.240.92:443/?type=tcp&security=tls&sni=tj2.dalazhi.eu.org#%5B%20%F0%9F%87%B3%F0%9F%87%B1%20%5D%20MTN%20%F0%9F%9F%A1
+
+vmess://eyJhZGQiOiIxMDQuMjEuNTMuMzUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJ1eXZtMS55eGpub2RlLmNvbSIsImlkIjoiMDljMWQzMmQtNDQ1OC00ZWJmLWIzNmQtNGRkNzMyYmFlM2FhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3l4emJwIiwicG9ydCI6IjgwIiwicHMiOiJbIOKYge+4jyBdIE1UTiDwn5+hIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
 vless://6a12a749-c181-490e-e181-0ea433b5e44a@65.109.180.5:443/?type=tcp&encryption=none&flow=&sni=www.macys.com&fp=firefox&security=reality&pbk=bRnE6i7hmClJ-tiSRZj3zpxMhR80Wn8A-1FD7Sb2Ugs&sid=3b55184c#%5B%20%F0%9F%A5%B7%F0%9F%8F%BB%20%5D%20Reality%20-%20RTL%20%F0%9F%9F%A3%20MTN%20%F0%9F%9F%A1
 
 vless://e694d6cd-5b33-403f-9925-f9762103fec4@join1.vpnfreesec.shop:53972?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%D9%85%D9%88%D9%82%D8%AA
