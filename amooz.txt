@@ -78,3 +78,4 @@ vmess://ewogICAgImFkZCI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIsCiAgICAiYWlkIjogIjAiLAogICAg
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@77.72.5.113:989#%F0%9F%87%AC%F0%9F%87%A7Rightel
 
+vless://c574c822-5ef9-44dc-b242-4f40a26e532a@203.22.223.71:443/?type=ws&encryption=none&host=hi-amooz.safenesser.ga&path=%2Fvless%2Fc574c822-5ef9-44dc-b242-4f40a26e532a&security=tls&sni=hi-amooz.safenesser.ga#%5B%20%E2%98%81%EF%B8%8F%20%5D%20Edge%20Tunnel%20Vless
