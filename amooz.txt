@@ -1,5 +1,7 @@
 vless://ee9218ff-8265-45f1-a1b3-1510c7ef1de6@ftp.senpai-like-you.autos:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.npmjs.com&alpn=h2&fp=chrome&security=reality&pbk=3WTvESboX9qqBzCCfaUnMscN7rKcp_f-4b-CcC_Y4DA&sid=f95aa64086be#%5B%20%F0%9F%A5%B7%F0%9F%8F%BB%20%5D%20Reality%20-%20%F0%9F%9F%A1%20%F0%9F%94%B5%20%F0%9F%9F%A3%20
 
+vless://42@185.143.233.122:2086/?type=ws&encryption=none&flow=&host=lan3.mehdiprog.sbs&path=%2Frootlog#%5B%20%F0%9F%87%AE%F0%9F%87%B7%20%5D%20Tunnel%20-%20%2850GB%29
+
 vmess://eyJhZGQiOiI2NS4xMDkuMTgwLjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1hcmFsaG9zdC5jb20iLCJpZCI6ImJkZjRjNjdkLWQ2M2MtNDQyNS1kZTBlLTkzYTdhODdkNGMzMiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjU3MzEzIiwicHMiOiJbIPCfla/vuI8gXSB0ZW1wb3JhcnkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvaEMyM3VoSXpqdmVKdVI3@146.59.146.237:2087#%F0%9F%87%AB%F0%9F%87%B7irancel_%F0%9F%A4%8F
