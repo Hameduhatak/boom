@@ -1,3 +1,6 @@
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@193.182.144.240:989#%F0%9F%87%AE%F0%9F%87%B1%20Rightel
+
+
 vless://ee9218ff-8265-45f1-a1b3-1510c7ef1de6@ftp.senpai-like-you.autos:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.npmjs.com&alpn=h2&fp=chrome&security=reality&pbk=3WTvESboX9qqBzCCfaUnMscN7rKcp_f-4b-CcC_Y4DA&sid=f95aa64086be#%5B%20%F0%9F%A5%B7%F0%9F%8F%BB%20%5D%20Reality%20-%20%F0%9F%9F%A1%20%F0%9F%94%B5%20%F0%9F%9F%A3%20
 
 vless://42@185.143.233.122:2086/?type=ws&encryption=none&flow=&host=lan3.mehdiprog.sbs&path=%2Frootlog#%5B%20%F0%9F%87%AE%F0%9F%87%B7%20%5D%20Tunnel%20-%20%2850GB%29
