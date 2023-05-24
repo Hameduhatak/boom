@@ -90,14 +90,6 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@145.239.1.100:5000#%5B%F0%9F%87%AB%F0%9
 
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.77.53.200:5001#%5B%F0%9F%87%B5%F0%9F%87%B1%5D%2051.77.53.200%20RTL%20%F0%9F%9F%A3
 
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#%5B%F0%9F%87%AC%F0%9F%87%A7%5D145.239.6.202%20RTL%20%F0%9F%9F%A3
-
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.162:989#%5B%F0%9F%87%AE%F0%9F%87%B8%5D37.235.49.162%20RTL%20%F0%9F%9F%A3%20%28nekubox%29
-
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.55.21:989#%5B%F0%9F%87%AE%F0%9F%87%B2%5D37.235.55.21%20RTL%20%F0%9F%9F%A3%20%28nekubox%29
-
-
-vmess://eyJhZGQiOiI0NS41OC4xODYuODEiLCJhaWQiOiI2NCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjRhMTM4ZTE5LTA1OTUtNGQ1MS04M2M2LWZkMjc2Y2Y3ZDMwNyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTExNDAiLCJwcyI6Ilvwn4ez8J+HsV0gUlRMIPCfn6MgTVROIPCfn6EgKFRDUCkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 
 
@@ -113,10 +105,17 @@ vmess://eyJhZGQiOiI0NS41OC4xODYuODEiLCJhaWQiOiI2NCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 
 
 
-vless://c574c822-5ef9-44dc-b242-4f40a26e532a@104.21.53.35:443/?type=ws&encryption=none&host=hi-amooz.safenesser.ga&path=%2Fvless%2Fc574c822-5ef9-44dc-b242-4f40a26e532a&security=tls&sni=hi-amooz.safenesser.ga#%5B%20%E2%98%81%EF%B8%8F%20%5D%20Edge%20Tunnel%20Vless
 
-vless://c574c822-5ef9-44dc-b242-4f40a26e532a@198.41.211.44:443/?type=ws&encryption=none&host=hi-amooz.safenesser.ga&path=%2Fvless%2Fc574c822-5ef9-44dc-b242-4f40a26e532a&security=tls&sni=hi-amooz.safenesser.ga#%5B%20%E2%98%81%EF%B8%8F%20%5D%20Edge%20Tunnel%20Vless%202
 
-vless://c574c822-5ef9-44dc-b242-4f40a26e532a@104.21.53.35:443/?type=ws&encryption=none&host=hi-amooz.safenesser.ga&path=%2Fvless%2Fc574c822-5ef9-44dc-b242-4f40a26e532a&security=tls&sni=hi-amooz.safenesser.ga#%5B%20%E2%98%81%EF%B8%8F%20%5D%20Edge%20Tunnel%20Vless%203
 
-vless://c574c822-5ef9-44dc-b242-4f40a26e532a@188.114.97.7:443/?type=ws&encryption=none&host=hi-amooz.safenesser.ga&path=%2Fvless%2Fc574c822-5ef9-44dc-b242-4f40a26e532a&security=tls&sni=hi-amooz.safenesser.ga#%5B%20%E2%98%81%EF%B8%8F%20%5D%20Edge%20Tunnel%20Vless%204
+
+
+
+
+
+
+
+
+
+
+
